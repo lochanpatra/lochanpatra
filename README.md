@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lochanpatra
-- 👀 I’m interested in ...GeoSpatial data scientist,deep learning,machine learning
+- 👀 I’m interested in ...GeoSpatial data analysis,machine learning and development
 - 🌱 I’m currently working as freelancer ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...lochanpatra@yahoo.com
